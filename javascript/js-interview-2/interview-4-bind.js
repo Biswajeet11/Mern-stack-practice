@@ -18,4 +18,6 @@ var pokemonName = function(){
 
 var pokemonName2 = pokemonName.bind(pokemon);
 
-console.log(pokemonName2())
+console.log(pokemonName2()) 
+
+
