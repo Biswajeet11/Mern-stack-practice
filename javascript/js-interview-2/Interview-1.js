@@ -11,7 +11,8 @@ abc();
  
 /* --------------- */
 
-/*https://www.jpassion.com/category/16-javascript-jquery-ajax-programming?download=678 */
+/* Resource for diagrams and explanation: 
+https://www.jpassion.com/category/16-javascript-jquery-ajax-programming?download=678 */
 
 var a = {
     x: 10,

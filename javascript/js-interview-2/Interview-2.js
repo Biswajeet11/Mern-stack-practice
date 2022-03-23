@@ -1,4 +1,6 @@
-/*https://stackoverflow.com/questions/9959727/proto-vs-prototype-in-javascript */
+/*
+For diagram check this link:
+https://stackoverflow.com/questions/9959727/proto-vs-prototype-in-javascript */
 
 
 function Foo(y){
