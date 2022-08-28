@@ -3,12 +3,19 @@
 var a = 2;
 function abc(){
     // var a;
-    console.log(a); //undefined
+    console.log("-----",a); //undefined
     // a =10
     var a = 10;
 }
 abc();
- 
+
+function abc2(){
+    // var a;
+    console.log("-----",a); //2
+    // a =10
+    //var a = 10;
+}
+abc2()
 /* --------------- */
 
 /* Resource for diagrams and explanation: 
